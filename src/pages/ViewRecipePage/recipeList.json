@@ -1,0 +1,25 @@
+[{
+    "id":1,
+    "RecipeTitle":"PavBhaji",
+    "RecipeIngredients":"long,salt,1-onion",
+    "RecipePicture":"../../assets/download4.jpg"        
+    
+},{
+  "id":2,
+  "RecipeTitle":"DalMakhni",
+  "RecipeIngredients":"long,salt,1-onion",
+  "RecipePicture":"../../assets/download4.jpg"        
+  
+},{
+  "id":3,
+  "RecipeTitle":"MasalaDosa",
+  "RecipeIngredients":"long,salt,1-onion",
+  "RecipePicture":"../../assets/download4.jpg"        
+  
+},{
+  "id":4,
+  "RecipeTitle":"PannerPunjabi",
+  "RecipeIngredients":"long,salt,1-onion",
+  "RecipePicture":"../../assets/download4.jpg"        
+  
+}]
